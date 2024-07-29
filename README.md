@@ -1,6 +1,6 @@
 # Portfolio Optimization Project
 
-## Overview
+## Introduction
 This project involves the optimization of a stock portfolio to identify the portfolio with the highest Sharpe ratio. 
 The Sharpe ratio is a measure of risk-adjusted return, and the goal is to find the optimal mix of stocks that maximizes this ratio.
 
